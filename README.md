@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project is about learning WebGL using JavaScript. 
+This project is about learning WebGL using JavaScript, including some shader codes for different coloring and textures.
 
 ## How to run
 
